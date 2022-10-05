@@ -22,13 +22,36 @@ We hope you feel **inspired to build** and that you complete your journey knowin
 | Speaker | Details |
 | --- | --- |
 | ![Craig Dennis](./speakers/craig.png) **Craig Dennis**<br />Staff, Developer Educator | We'll explore sending messages using the Twilio APIs using a plethora of tools: Helper Libraries, the CLI , Twilio Functions, and our No Code/Low Code solution Studio.|
-### Introduction to Segment
 
-### SendGrid 201: 
+### Introduction to Segment: The Customer Data Platform
 
-### Messaging at Scale
+| Speaker | Details |
+| --- | --- |
+| ![Ben Link](./speakers/ben.png) **Ben Link**<br />Developer Advocate |
+Segment 101: If you've never heard of a Customer Data Platform before, this session is for you! We'll cover the basics of why you need a CDP and what Segment does better than all the rest!
+|
 
-### Segment at Scale
+### Email Deliverability
 
+| Speaker | Details |
+| --- | --- |
+| ![Elmer Thomas](./speakers/elmer.png) **Elmer Thomas**<br />Staff, Developer Educator |
+Learn how to leverage Twilio SendGrid Webhooks and APIs to improve email deliverability and customer engagement. We will delve into our Twilio SendGrid Email Validation API, Contacts & Lists API and Event Webhook.
+|
+
+### Scaling Messaging
+
+| Speaker | Details |
+| --- | --- |
+| ![Gary Hockin](./speakers/elmer.png) **Gary Hockin**<br />Staff, Developer Evangelist |
+
+The Message API will get you very far, but when it comes to scale, it's helpful to take a step back and think through some best practices. In this talk we'll walk through things you should consider, and provide guidance for how you can take your applications to the next level.
+
+### Scaling with Segment
+
+| Speaker | Details |
+| --- | --- |
+| ![Bryn Saunders](./speakers/bryn.png) **Bryn Saunders**<br />Senior Product Marketing Manager | You may ask yourself – what does a CDP have to do with developers? It’s pretty simple – you get to spend less time managing ETLs, and more time focusing on core products and customer experiences. Join us for a Superclass to explore how Segment can help support your engineering organization as it scales - ultimately lowering costs with first-party data your teams can trust.
+|
 
 ## Learn Moar
