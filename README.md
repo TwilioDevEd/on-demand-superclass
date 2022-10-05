@@ -16,10 +16,12 @@ We hope you feel **inspired to build** and that you complete your journey knowin
 
 | Speaker | Details |
 | --- | --- |
-| ![Wade Christensen](./speakers/wade.png) Wade Christensen<br />Staff, Developer Educator | Among the communication channels available today, email is non-negotiable. Email is reliable, works globally, and offers flexibility that can't be met by other communications avenues. In this workshop, you'll learn how to implement the Twilio SendGrid Mail Send API to programmatically deliver email at scale. You'll also see how the Twilio SendGrid dynamic templating system makes it possible to personalize your messages for each customer, and you can expect some deliverability pro-tips along the way. |
+| ![Wade Christensen](./speakers/wade.png) **Wade Christensen**<br />Staff, Developer Educator | Among the communication channels available today, email is non-negotiable. Email is reliable, works globally, and offers flexibility that can't be met by other communications avenues. In this workshop, you'll learn how to implement the Twilio SendGrid Mail Send API to programmatically deliver email at scale. You'll also see how the Twilio SendGrid dynamic templating system makes it possible to personalize your messages for each customer, and you can expect some deliverability pro-tips along the way. |
 
 ### Introduction to Messaging
-
+| Speaker | Details |
+| --- | --- |
+| ![Craig Dennis](./speakers/craig.png) **Craig Dennis**<br />Staff, Developer Educator | We'll explore sending messages using the Twilio APIs using a plethora of tools: Helper Libraries, the CLI , Twilio Functions, and our No Code/Low Code solution Studio.|
 ### Introduction to Segment
 
 ### SendGrid 201: 
