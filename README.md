@@ -43,7 +43,7 @@ Learn how to leverage Twilio SendGrid Webhooks and APIs to improve email deliver
 
 | Speaker | Details |
 | --- | --- |
-| ![Gary Hockin](./speakers/elmer.png) **Gary Hockin**<br />Staff, Developer Evangelist |
+| ![Gary Hockin](./speakers/gary.png) **Gary Hockin**<br />Staff, Developer Evangelist |
 
 The Message API will get you very far, but when it comes to scale, it's helpful to take a step back and think through some best practices. In this talk we'll walk through things you should consider, and provide guidance for how you can take your applications to the next level.
 
