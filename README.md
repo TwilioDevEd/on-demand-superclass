@@ -2,13 +2,20 @@
 
 On Demand Superclass is a guided experience that helps you choose your own learning adventure through the ever expanding Twilioverse.
 
-### Welcome to Superclass
+On this README you will find [workshops](#workshops), suggested [learning resources](#resources), and moar!
 
-Welcome to Superclass! In this session we'll talk about what even is a Twilio and how to get the most out of your Superclass adventure.
+## Welcome to Superclass
+
+Ahoy, Builder! In this welcome session we'll talk about "what even is a Twilio" and how to get the most out of your Superclass adventure.
+
+### Workshop Resources
+
+-
+
+## Learning Resources
+
 
 ## Workshops
-
-We've gathered a group of the best Developer Educators in the biz to chat with you about our products.
 
 We hope you feel **inspired to build** and that you complete your journey knowing how to get started developing and continuing learning on the Twilio platform!
 
