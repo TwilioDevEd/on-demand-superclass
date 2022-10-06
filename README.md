@@ -21,7 +21,7 @@ We hope you feel **inspired to build** and that you complete your journey knowin
 
 ### Twilio SendGrid 101: An Introduction to Sending Transactional Email
 
-| Speaker | Details |
+| <div style="width: 20%">Speaker</div> | Details |
 | --- | --- |
 | ![Wade Christensen](./speakers/wade.png) **Wade Christensen**<br />Staff, Developer Educator | Among the communication channels available today, email is non-negotiable. Email is reliable, works globally, and offers flexibility that can't be met by other communications avenues. In this workshop, you'll learn how to implement the Twilio SendGrid Mail Send API to programmatically deliver email at scale. You'll also see how the Twilio SendGrid dynamic templating system makes it possible to personalize your messages for each customer, and you can expect some deliverability pro-tips along the way. |
 
