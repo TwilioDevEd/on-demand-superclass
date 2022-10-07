@@ -68,5 +68,6 @@ Staff, Developer Evangelist
 You may ask yourself – what does a CDP have to do with developers? It’s pretty simple – you get to spend less time managing ETLs, and more time focusing on core products and customer experiences. Join us for a Superclass to explore how Segment can help support your engineering organization as it scales - ultimately lowering costs with first-party data your teams can trust.
 
 ![Bryn Saunders](./speakers/bryn.png)
+
 **Bryn Saunders**
 Senior Product Marketing Manager
