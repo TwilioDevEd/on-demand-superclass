@@ -2,15 +2,15 @@
 
 On Demand Superclass is a guided experience that helps you choose your own learning adventure through the ever expanding Twilioverse.
 
-On this README you will find [workshops](#workshops), suggested [learning resources](#additional-learning-resources), [TwilioQuest](#twilioquest) our educational video game, and moar!
+On this README you will find [workshops](#workshops), suggested [hands-on learning resources](#hands-on-learning-resources), [TwilioQuest](#twilioquest) our educational video game, and moar!
 
 ## Welcome to Superclass
 
-Ahoy, Builder! In this welcome session we'll talk about "what even is a Twilio" and how to get the most out of your Superclass adventure.
+Ahoy, Builder! In this welcome session we'll talk about "what even is a Twilio" and how to get the most out of your Superclass adventure. Make sure to get inspired by your [fellow builders](https://customers.twilio.com/).
 
 ## Workshops
 
-We hope your adventures leaves you **inspired to build** and knowing how to get started developing as well as how to continue learning on the Twilio platform!
+We hope your adventures leaves you **inspired to build** and knowing how to get started developing as well as how to continue learning and scaling on the Twilio platform!
 
 ### Twilio SendGrid 101: An Introduction to Sending Transactional Email
 
@@ -93,24 +93,22 @@ Senior Product Marketing Manager
 ![TwilioQuest Operation](./images/twilioquest/join-code.png)
 
 
+## Hands On Learning Resources
 
+If you’ve used Twilio in the past, chances are you’ve only used one or two different products. One of the best ways to get exposed to new Twilio capabilities is to deploy and test out a sample application on the [Twilio CodeExchange](https://twilio.com/code-exchange). Choose a sample application from this repository, and get it running on your own Twilio account.
 
-
-## Additional Learning Resources
+Here are some options for apps, tutorials, and video lessons to check out, broken down by product:
 
 ### Twilio Messaging
 
-- 💻 [CodeExchange - SMS and WhatsApp](https://www.twilio.com/code-exchange?q=&f=sms&f=whatsapp) 
-    
-- 📚 [SMS Tutorials - Twilio docs](https://www.twilio.com/docs/tutorials?filter-product=SMS)
-    
+- 💻 [CodeExchange - SMS and WhatsApp](https://www.twilio.com/code-exchange?q=&f=sms&f=whatsapp)   
+- 📚 [SMS Tutorials - Twilio docs](https://www.twilio.com/docs/tutorials?filter-product=SMS) 
 - 📚 [Messaging Guide: Best Practices at Scale](https://www.twilio.com/docs/messaging/guides/best-practices-at-scale)
     
 ### Twilio Voice
 
 - 💻 [CodeExchange - Voice](https://www.twilio.com/code-exchange?q=&f=voice)
 - 📚 [Voice Tutorials - Twilio docs](https://www.twilio.com/docs/tutorials?filter-product=Voice)
-
 
 ### Twilio Verify
 
@@ -129,9 +127,7 @@ Senior Product Marketing Manager
 - 👀 [Twilio Serverless](https://www.twilio.com/serverless)
 - 📚 [TwiML Bins tutorial - Docs](https://www.twilio.com/docs/runtime/tutorials/twiml-bins)
 - 📚 [Twilio Functions and Assests - Docs](https://www.twilio.com/docs/serverless/functions-assets)
-    
 -   📚 [Understanding Function & Asset Visibility - Docs](https://www.twilio.com/docs/runtime/functions-assets-api/api/understanding-visibility-public-private-and-protected-functions-and-assets)
-    
 - 📚 [Twilio Studio - Twilio docs](https://www.twilio.com/docs/studio)
   
 ### Twilio Video
@@ -139,4 +135,10 @@ Senior Product Marketing Manager
 - 📚 [Programmable Video Tutorial - Twilio docs](https://www.twilio.com/docs/video/overview#resources-for-getting-started) 
 - 💻 [CodeExchange - Programmable Video](https://www.twilio.com/code-exchange?q=&f=video)
 
-- 🍿 [Messaging, Voice & Runtime Tutorial](https://youtu.be/4jUMqutYmyE)
+## Moar On Demand Learning Resources
+- 🍿 [Twilio Essentials: Messaging, Voice & Serverless Tutorial - LinkedIn Learning](https://www.linkedin.com/learning/instructors/twilio)
+- 🍿 [Twilio Essentials: Messaging, Voice & Serverless Tutorial - YouTube](https://youtu.be/4jUMqutYmyE)
+- 🍿 [Level Up with Video: Add live video to your applications](https://ahoy.twilio.com/devgen_webinar_programmable_video_uplevel_NAMER-1)
+- 🍿 [Level Up with Twilio Programmable Voice: Build interactive phone based apps](https://ahoy.twilio.com/devgen_webinar_programmable_voice_uplevel_NAMER-1)
+- 🍿 [Level Up with Voice: Add a phone to your browser using the Voice SDK](https://ahoy.twilio.com/devgen_webinar_programmable_voice_uplevel_NAMER_2-1)
+- 👀 [All Level Up Developer Webinars](https://twil.io/levelups)
