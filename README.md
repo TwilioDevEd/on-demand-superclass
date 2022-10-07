@@ -10,7 +10,7 @@ Ahoy, Builder! In this welcome session we'll talk about "what even is a Twilio" 
 
 ## Workshops
 
-We hope you feel **inspired to build** and that you complete your journey knowing how to get started developing and continuing learning on the Twilio platform!
+We hope your adventures leaves you **inspired to build** and knowing how to get started developing as well as how to continue learning on the Twilio platform!
 
 ### Twilio SendGrid 101: An Introduction to Sending Transactional Email
 
@@ -81,6 +81,8 @@ You may ask yourself – what does a CDP have to do with developers? It’s pret
 Senior Product Marketing Manager
 
 ## TwilioQuest
+
+![TwilioQuest](./images/twilioquest/logo.svg)
 
 🚀 Lead your intrepid crew on a mission to save The Cloud in TwilioQuest, a PC role-playing game inspired by classics of the 16-bit era. Enhance your programming skills and learn to build with Twilio’s Messaging and Voice APIs in the Twilio VR Training mission. 
 
