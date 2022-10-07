@@ -82,7 +82,13 @@ Senior Product Marketing Manager
 
 ## TwilioQuest
 
-🚀 Lead your intrepid crew on a mission to save The Cloud in TwilioQuest, a PC role-playing game inspired by classics of the 16-bit era. Enhance your programming skills and learn to build with Twilio’s Messaging and Voice APIs in the Twilio VR Training mission. Join the Superclass Operation to track your progress on a global leaderboard, using the special code `wish-free-rope`.
+🚀 Lead your intrepid crew on a mission to save The Cloud in TwilioQuest, a PC role-playing game inspired by classics of the 16-bit era. Enhance your programming skills and learn to build with Twilio’s Messaging and Voice APIs in the Twilio VR Training mission. 
+
+📈 Join the Superclass Operation to track your progress on a global leaderboard, using the special code `wish-free-rope`.
+
+![TwilioQuest Operation](./images/twilioquest/join-code.png)
+
+
 
 🎮 Download [TwilioQuest](https://twilio.com/quest) today on Windows, Mac, or Linux to get started. 
 
