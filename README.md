@@ -6,11 +6,15 @@ On this README you will find [workshops](#workshops), suggested [hands-on learni
 
 ## Welcome to Superclass
 
-Ahoy, Builder! In this welcome session we'll talk about "what even is a Twilio" and how to get the most out of your Superclass adventure. Make sure to get inspired by your [fellow builders](https://customers.twilio.com/).
+- 👀 [Cedric's Joke Hotline GitHub repository](https://github.com/TwilioDevEd/cedrics-joke-hotline-superclass-studio)
+
+Ahoy, Builder! In this welcome session we'll talk about "what even is a Twilio", meet Cedric, and discuss how to get the most out of your Superclass adventure. 
+
+Make sure to get inspired by your [fellow builders](https://customers.twilio.com/).
 
 ## Workshops
 
-We hope your adventures leaves you **inspired to build** and knowing how to get started developing as well as how to continue learning and scaling on the Twilio platform!
+We hope your adventures leave you **inspired to build** ,knowing how to get started developing, as well as, how to continue learning and scaling on the Twilio platform!
 
 ### Twilio SendGrid 101: An Introduction to Sending Transactional Email
 
@@ -64,10 +68,10 @@ Staff, Developer Educator
 
 The Message API will get you very far, but when it comes to scale, it's helpful to take a step back and think through some best practices. In this talk we'll walk through things you should consider, and provide guidance for how you can take your applications to the next level. 
 
-![Gary Hockin](./images/speakers/gary.png)
+![Craig Dennis](./images/speakers/craig.png)
 
-**Gary Hockin**
-Staff, Developer Evangelist
+**Craig Dennis**
+Staff, Developer Educator
 
 ### Scaling with Segment
 
