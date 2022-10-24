@@ -64,7 +64,10 @@ Staff, Developer Educator
 
 ### Scaling Messaging
 
+- 📚 [REST API Best Practices](https://www.twilio.com/docs/usage/rest-api-best-practices)
 - 📚 [Best Practices for Scaling with Messaging Services](https://www.twilio.com/docs/messaging/guides/best-practices-at-scale)
+- 📚 [A2P10DLC - Application 2 Person 10 Digit Long Code - Guide](https://www.twilio.com/a2p-10dlc)
+- 🧮 [Message Segment Calculator](https://twiliodeved.github.io/message-segment-calculator/)
 
 The Message API will get you very far, but when it comes to scale, it's helpful to take a step back and think through some best practices. In this talk we'll walk through things you should consider, and provide guidance for how you can take your applications to the next level. 
 
