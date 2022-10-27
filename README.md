@@ -30,10 +30,7 @@ Staff, Developer Educator
 
 ### Introduction to Messaging
 
-- 📚 [Message Resource API docs (Outgoing)](https://www.twilio.com/docs/sms/api/message-resource)
-- 📚 [Message TwiML Docs (Incoming)](https://www.twilio.com/docs/messaging/twiml/message)
-- 💻 [Twilio CLI Instructions](https://twil.io/cli)
-- 🍿 [Level Up with Studio: Using No Code tools when you are a coder](https://ahoy.twilio.com/devgen_webinar_levelup_twilio_studio_NAMER-1)
+- 👀 [Introduction to Messaging Repository](https://github.com/TwilioDevEd/introduction-to-messaging-superclass-workshop)
 
 We'll explore sending messages using the Twilio APIs using a plethora of tools: Helper Libraries, the CLI , Twilio Functions, and our No Code/Low Code solution Studio.
 
