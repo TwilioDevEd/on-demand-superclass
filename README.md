@@ -99,6 +99,14 @@ Senior Product Marketing Manager
 
 ![TwilioQuest Operation](./images/twilioquest/join-code.png)
 
+## Recombee
+
+![Recombee](./images/recombee/logo.svg)
+
+[Bryn](#scaling-with-segment) introduced you to Recombee in his "Scaling with Segment" presentation.  If you'd like to get better acquainted with Recombee, check out these resources:
+* Explore [Recombee](https://www.recombee.com/signal-superclass.html)
+* Superclass attendees can request a FREE consultation by clicking [here](https://www.recombee.com/signal-journey.html)!
+* Contact [Recombee Support](mailto://support.recombee.com)
 
 ## Hands On Learning Resources
 
