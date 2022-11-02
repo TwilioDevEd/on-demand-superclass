@@ -54,6 +54,8 @@ Developer Advocate
 
 ### Email Deliverability
 
+- 👀 [Email Deliverability GitHub Repository](https://github.com/TwilioDevEd/email-deliverability-workshop)
+
 Learn how to leverage Twilio SendGrid Webhooks and APIs to improve email deliverability and customer engagement. We will delve into our Twilio SendGrid Email Validation API, Contacts & Lists API and Event Webhook.
 
 ![Elmer Thomas](./images/speakers/elmer.png)
