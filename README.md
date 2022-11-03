@@ -105,9 +105,10 @@ Senior Product Marketing Manager
 ![Recombee](./images/recombee/logo.svg)
 
 [Bryn](#scaling-with-segment) introduced you to Recombee in his "Scaling with Segment" presentation.  If you'd like to get better acquainted with Recombee, check out these resources:
-* Explore [Recombee](https://www.recombee.com/signal-superclass.html)
-* Superclass attendees can request a FREE consultation by clicking [here](https://www.recombee.com/signal-journey.html)!
-* Contact [Recombee Support](mailto://support.recombee.com)
+- 🍿 [Level Up with Segment Destinations: Recommendation Engine Recombee](https://interactive.twilio.com/level-up-with-segment-destinations-recommendation-engine-recombee)
+- Explore [Recombee](https://www.recombee.com/signal-superclass.html)
+- Superclass attendees have access to a [completely free consultation](https://www.recombee.com/signal-journey.html)!
+- Contact [Recombee Support](mailto://support.recombee.com)
 
 ## Hands On Learning Resources
 
