@@ -4,7 +4,7 @@ On Demand Superclass is a guided experience that helps you choose your own learn
 
 On this README you will find [workshops](#workshops), suggested [hands-on learning resources](#hands-on-learning-resources), [TwilioQuest](#twilioquest) our educational video game, and moar!
 
-We believe the best time to ask questions is when you have one, so please make sure to [ask questions](https://twil.io/ask-questions)
+We believe the best time to ask questions is when you have one, so please make sure to [ask questions](https://twil.io/ask-questions). We also value your feedback, please [make your voice heard](https://airtable.com/shrQAaE9sy3zdrgoD).
 
 ## Welcome to Superclass
 
