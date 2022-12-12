@@ -72,10 +72,10 @@ Staff, Developer Educator
 
 The Message API will get you very far, but when it comes to scale, it's helpful to take a step back and think through some best practices. In this talk we'll walk through things you should consider, and provide guidance for how you can take your applications to the next level. 
 
-![Craig Dennis](./images/speakers/craig.png)
+![Emily Shenfield](./images/speakers/emily.png)
 
-**Craig Dennis**
-Staff, Developer Educator
+**Emily Shenfield**
+Staff, Demo Engineer
 
 ### Scaling with Segment
 
