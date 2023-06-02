@@ -13,48 +13,23 @@ Ahoy, Builder! In this welcome session we'll talk about "what even is a Twilio" 
 Make sure to get inspired by your [fellow builders](https://customers.twilio.com/).
 
 - 👩‍💻 [Make an Outbound Call - Node](./welcome/outbound.js)
-- 🎧 [OpenAI ChatGPT based Song Suggester](./welcome/functions/)
-- 
+- 🎧 [OpenAI ChatGPT based Song Suggester](./welcome/functions/suggest.js)
+- 📲 [Transcription Handler](./welcome/functions/handle-transcription.js)
 
 ## Workshops
 
 We hope your adventures leave you **inspired to build** ,knowing how to get started developing, as well as, how to continue learning and scaling on the Twilio platform!
 
-### Twilio SendGrid 101: An Introduction to Sending Transactional Email
-
-- 👀 [Twilio SendGrid 101 GitHub Repository](https://github.com/TwilioDevEd/twilio_sendgrid_101)
-
-Among the communication channels available today, email is non-negotiable. Email is reliable, works globally, and offers flexibility that can't be met by other communications avenues. In this workshop, you'll learn how to implement the Twilio SendGrid Mail Send API to programmatically deliver email at scale. You'll also see how the Twilio SendGrid dynamic templating system makes it possible to personalize your messages for each customer, and you can expect some deliverability pro-tips along the way.
-
-![Wade Christensen](./images/speakers/wade.png)
-
-**Wade Christensen**
-Principal, Developer Educator
-
-
 ### Introduction to Messaging
 
-- 👀 [Introduction to Messaging Repository](https://github.com/TwilioDevEd/introduction-to-messaging-superclass-workshop)
+- 📱 [Number Types](https://interactive.twilio.com/numbers-test)
+- 🧮 [Messaging Segment Calculator](https://twiliodeved.github.io/message-segment-calculator/)
+- [Xmas Doodle Game Repo](https://github.com/anthonyjdella/twilio-christmas-doodle-guess)
 
-We'll explore sending messages using the Twilio APIs using a plethora of tools: Helper Libraries, the CLI , Twilio Functions, and our No Code/Low Code solution Studio.
+Did you know that “Merry Christmas” was the first ever text message sent? In this holiday-inspired session, you’ll learn what a message is and how they are relevant today. Then, you’ll learn how to send your very first text message with Twilio.
 
-![Craig Dennis](./images/speakers/craig.png)
+![Anthony Dellavecchia](./images/speakers/anthony.png)
 
-**Craig Dennis** Staff, Developer Educator 
-
-### Introduction to Segment: The Customer Data Platform
-
-- 📚[Segment Recipes - Step-by-step Tutorials](https://segment.com/recipes/)
-- 🙋‍♂️ [Segment Twilio Developer Plan](https://segment.com/twilio-developer-plan/)
-
-Segment 101: If you've never heard of a Customer Data Platform before, this session is for you! We'll cover the basics of why you need a CDP and what Segment does better than all the rest!
-
-![Ben Link](./images/speakers/ben.png)
-
-**Ben Link**
-Developer Advocate 
-
-### Email Deliverability
 
 ### Scaling Messaging
 
@@ -69,6 +44,30 @@ The Message API will get you very far, but when it comes to scale, it's helpful 
 
 **Emily Shenfield**
 Principal, Developer Educator
+
+
+### Twilio SendGrid 101: An Introduction to Sending Transactional Email
+
+- 👀 [Twilio SendGrid 101 GitHub Repository](https://github.com/TwilioDevEd/twilio_sendgrid_101)
+
+Among the communication channels available today, email is non-negotiable. Email is reliable, works globally, and offers flexibility that can't be met by other communications avenues. In this workshop, you'll learn how to implement the Twilio SendGrid Mail Send API to programmatically deliver email at scale. You'll also see how the Twilio SendGrid dynamic templating system makes it possible to personalize your messages for each customer, and you can expect some deliverability pro-tips along the way.
+
+![Wade Christensen](./images/speakers/wade.png)
+
+**Wade Christensen**
+Principal, Developer Educator
+
+### Introduction to Segment: The Customer Data Platform
+
+- 📚[Segment Recipes - Step-by-step Tutorials](https://segment.com/recipes/)
+- 🙋‍♂️ [Segment Twilio Developer Plan](https://segment.com/twilio-developer-plan/)
+
+Segment 101: If you've never heard of a Customer Data Platform before, this session is for you! We'll cover the basics of why you need a CDP and what Segment does better than all the rest!
+
+![Ben Link](./images/speakers/ben.png)
+
+**Ben Link**
+Developer Advocate 
 
 
 ## Hands On Learning Resources
