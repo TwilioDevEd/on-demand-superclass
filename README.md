@@ -2,17 +2,19 @@
 
 On Demand Superclass is a guided experience that helps you choose your own learning adventure through the ever expanding Twilioverse.
 
-On this README you will find [workshops](#workshops), suggested [hands-on learning resources](#hands-on-learning-resources), [TwilioQuest](#twilioquest) our educational video game, and moar!
+On this README you will find [workshops](#workshops), suggested [hands-on learning resources](#hands-on-learning-resources), and moar on-demand content.
 
 We believe the best time to ask questions is when you have one, so please make sure to [ask questions](https://twil.io/ask-questions). We also value your feedback, please [make your voice heard](https://airtable.com/shrQAaE9sy3zdrgoD).
 
 ## Welcome to Superclass
 
-- 👀 [Cedric's Joke Hotline GitHub repository](https://github.com/TwilioDevEd/cedrics-joke-hotline-superclass-studio)
-
-Ahoy, Builder! In this welcome session we'll talk about "what even is a Twilio", meet Cedric, and discuss how to get the most out of your Superclass adventure. 
+Ahoy, Builder! In this welcome session we'll talk about "what even is a Twilio" and even build an AI driven song suggestor voice app that receives and makes phone calls. We'll discuss how to get the most out of your Superclass adventure. 
 
 Make sure to get inspired by your [fellow builders](https://customers.twilio.com/).
+
+- 👩‍💻 [Make an Outbound Call - Node](./welcome/outbound.js)
+- 🎧 [OpenAI ChatGPT based Song Suggester](./welcome/functions/)
+- 
 
 ## Workshops
 
@@ -27,7 +29,7 @@ Among the communication channels available today, email is non-negotiable. Email
 ![Wade Christensen](./images/speakers/wade.png)
 
 **Wade Christensen**
-Staff, Developer Educator
+Principal, Developer Educator
 
 
 ### Introduction to Messaging
@@ -54,15 +56,6 @@ Developer Advocate
 
 ### Email Deliverability
 
-- 👀 [Email Deliverability GitHub Repository](https://github.com/TwilioDevEd/email-deliverability-workshop)
-
-Learn how to leverage Twilio SendGrid Webhooks and APIs to improve email deliverability and customer engagement. We will delve into our Twilio SendGrid Email Validation API, Contacts & Lists API and Event Webhook.
-
-![Elmer Thomas](./images/speakers/elmer.png)
-
-**Elmer Thomas**
-Staff, Developer Educator 
-
 ### Scaling Messaging
 
 - 📚 [REST API Best Practices](https://www.twilio.com/docs/usage/rest-api-best-practices)
@@ -75,40 +68,8 @@ The Message API will get you very far, but when it comes to scale, it's helpful 
 ![Emily Shenfield](./images/speakers/emily.png)
 
 **Emily Shenfield**
-Staff, Demo Engineer
+Principal, Developer Educator
 
-### Scaling with Segment
-
-- 👨‍🎓 [Segment University](https://university.segment.com)
-
-You may ask yourself – what does a CDP have to do with developers? It’s pretty simple – you get to spend less time managing ETLs, and more time focusing on core products and customer experiences. Join us for a Superclass to explore how Segment can help support your engineering organization as it scales - ultimately lowering costs with first-party data your teams can trust.
-
-![Bryn Saunders](./images/speakers/bryn.png)
-
-**Bryn Saunders**
-Senior Product Marketing Manager
-
-## TwilioQuest
-
-![TwilioQuest](./images/twilioquest/logo.svg)
-
-🚀 Lead your intrepid crew on a mission to save The Cloud in TwilioQuest, a PC role-playing game inspired by classics of the 16-bit era. Enhance your programming skills and learn to build with Twilio’s Messaging and Voice APIs in the Twilio VR Training mission. 
-
-🎮 Download [TwilioQuest](https://twilio.com/quest) today on Windows, Mac, or Linux to get started. 
-
-📈 Join the Superclass Operation to track your progress on a global leaderboard, using the special code `wish-free-rope`.
-
-![TwilioQuest Operation](./images/twilioquest/join-code.png)
-
-## Recombee
-
-![Recombee](./images/recombee/logo.svg)
-
-[Bryn](#scaling-with-segment) introduced you to Recombee in his "Scaling with Segment" presentation.  If you'd like to get better acquainted with Recombee, check out these resources:
-- 🍿 [Level Up with Segment Destinations: Recommendation Engine Recombee](https://interactive.twilio.com/level-up-with-segment-destinations-recommendation-engine-recombee)
-- Explore [Recombee](https://www.recombee.com/signal-superclass.html)
-- Superclass attendees have access to a [completely free consultation](https://www.recombee.com/signal-journey.html)!
-- Contact [Recombee Support](mailto://support.recombee.com)
 
 ## Hands On Learning Resources
 
