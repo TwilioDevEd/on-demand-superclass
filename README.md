@@ -8,7 +8,7 @@ We believe the best time to ask questions is when you have one, so please make s
 
 ## Welcome to Superclass
 
-Ahoy, Builder! In this welcome session we'll talk about "what even is a Twilio" and even build an AI driven song suggestor voice app that receives and makes phone calls. We'll discuss how to get the most out of your Superclass adventure. 
+Ahoy, Builder! In this welcome session we'll talk about "what even is a Twilio" and even build an AI driven song suggestor voice app that receives and makes phone calls. We'll discuss how to get the most out of your Superclass adventure.
 
 Make sure to get inspired by your [fellow builders](https://customers.twilio.com/).
 
@@ -18,7 +18,7 @@ Make sure to get inspired by your [fellow builders](https://customers.twilio.com
 
 ## Workshops
 
-We hope your adventures leave you **inspired to build** ,knowing how to get started developing, as well as, how to continue learning and scaling on the Twilio platform!
+We hope your adventures leave you **inspired to build**, knowing how to get started developing, as well as, how to continue learning and scaling on the Twilio platform!
 
 ### Introduction to Messaging
 
@@ -30,7 +30,6 @@ Did you know that “Merry Christmas” was the first ever text message sent? In
 
 ![Anthony Dellavecchia](./images/speakers/anthony.png)
 
-
 ### Scaling Messaging
 
 - 📚 [REST API Best Practices](https://www.twilio.com/docs/usage/rest-api-best-practices)
@@ -38,19 +37,22 @@ Did you know that “Merry Christmas” was the first ever text message sent? In
 - 📚 [A2P10DLC - Application 2 Person 10 Digit Long Code - Guide](https://www.twilio.com/a2p-10dlc)
 - 🧮 [Message Segment Calculator](https://twiliodeved.github.io/message-segment-calculator/)
 
-The Message API will get you very far, but when it comes to scale, it's helpful to take a step back and think through some best practices. In this talk we'll walk through things you should consider, and provide guidance for how you can take your applications to the next level. 
+The Message API will get you very far, but when it comes to scale, it's helpful to take a step back and think through some best practices. In this talk we'll walk through things you should consider, and provide guidance for how you can take your applications to the next level.
 
 ![Emily Shenfield](./images/speakers/emily.png)
 
 **Emily Shenfield**
 Principal, Developer Educator
 
-
 ### Twilio SendGrid 101: An Introduction to Sending Transactional Email
 
 - 👀 [Twilio SendGrid 101 GitHub Repository](https://github.com/TwilioDevEd/twilio_sendgrid_101)
 
-Among the communication channels available today, email is non-negotiable. Email is reliable, works globally, and offers flexibility that can't be met by other communications avenues. In this workshop, you'll learn how to implement the Twilio SendGrid Mail Send API to programmatically deliver email at scale. You'll also see how the Twilio SendGrid dynamic templating system makes it possible to personalize your messages for each customer, and you can expect some deliverability pro-tips along the way.
+Email is reliable, global, and offers flexibility that can't be met by other communications channels.
+
+In this workshop, you'll learn how to implement the Twilio SendGrid Email API, and you can expect some deliverability tips to help you start sending at scale. What kind of scale? In 2022, SendGrid sent more than 1.6 trillion messages — 50 billion of which were sent during the Black Friday and Cyber Monday week alone while maintaining a 99 percent delivery rate.
+
+You'll also see how the SendGrid dynamic templating system makes it possible to personalize your messages for each customer, allowing you to build lasting connections with your audience.
 
 ![Wade Christensen](./images/speakers/wade.png)
 
@@ -67,8 +69,7 @@ Segment 101: If you've never heard of a Customer Data Platform before, this sess
 ![Ben Link](./images/speakers/ben.png)
 
 **Ben Link**
-Developer Advocate 
-
+Developer Advocate
 
 ## Hands On Learning Resources
 
@@ -78,10 +79,10 @@ Here are some options for apps, tutorials, and video lessons to check out, broke
 
 ### Twilio Messaging
 
-- 💻 [CodeExchange - SMS and WhatsApp](https://www.twilio.com/code-exchange?q=&f=sms&f=whatsapp)   
-- 📚 [SMS Tutorials - Twilio docs](https://www.twilio.com/docs/tutorials?filter-product=SMS) 
+- 💻 [CodeExchange - SMS and WhatsApp](https://www.twilio.com/code-exchange?q=&f=sms&f=whatsapp)
+- 📚 [SMS Tutorials - Twilio docs](https://www.twilio.com/docs/tutorials?filter-product=SMS)
 - 📚 [Messaging Guide: Best Practices at Scale](https://www.twilio.com/docs/messaging/guides/best-practices-at-scale)
-    
+
 ### Twilio Voice
 
 - 💻 [CodeExchange - Voice](https://www.twilio.com/code-exchange?q=&f=voice)
@@ -104,15 +105,16 @@ Here are some options for apps, tutorials, and video lessons to check out, broke
 - 👀 [Twilio Serverless](https://www.twilio.com/serverless)
 - 📚 [TwiML Bins tutorial - Docs](https://www.twilio.com/docs/runtime/tutorials/twiml-bins)
 - 📚 [Twilio Functions and Assests - Docs](https://www.twilio.com/docs/serverless/functions-assets)
--   📚 [Understanding Function & Asset Visibility - Docs](https://www.twilio.com/docs/runtime/functions-assets-api/api/understanding-visibility-public-private-and-protected-functions-and-assets)
+- 📚 [Understanding Function & Asset Visibility - Docs](https://www.twilio.com/docs/runtime/functions-assets-api/api/understanding-visibility-public-private-and-protected-functions-and-assets)
 - 📚 [Twilio Studio - Twilio docs](https://www.twilio.com/docs/studio)
   
 ### Twilio Video
 
-- 📚 [Programmable Video Tutorial - Twilio docs](https://www.twilio.com/docs/video/overview#resources-for-getting-started) 
+- 📚 [Programmable Video Tutorial - Twilio docs](https://www.twilio.com/docs/video/overview#resources-for-getting-started)
 - 💻 [CodeExchange - Programmable Video](https://www.twilio.com/code-exchange?q=&f=video)
 
 ## Moar On Demand Learning Resources
+
 - 🍿 [Twilio Essentials: Messaging, Voice & Serverless Tutorial - LinkedIn Learning](https://www.linkedin.com/learning/instructors/twilio)
 - 🍿 [Twilio Essentials: Messaging, Voice & Serverless Tutorial - YouTube](https://youtu.be/4jUMqutYmyE)
 - 🍿 [Level Up with Video: Add live video to your applications](https://ahoy.twilio.com/devgen_webinar_programmable_video_uplevel_NAMER-1)
