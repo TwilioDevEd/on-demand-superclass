@@ -61,7 +61,7 @@ Principal, Developer Educator
 
 ### Introduction to Segment: The Customer Data Platform
 
-- 📚[Segment Recipes - Step-by-step Tutorials](https://segment.com/recipes/)
+- 📚 [Segment Recipes - Step-by-step Tutorials](https://segment.com/recipes/)
 - 🙋‍♂️ [Segment Twilio Developer Plan](https://segment.com/twilio-developer-plan/)
 
 Segment 101: If you've never heard of a Customer Data Platform before, this session is for you! We'll cover the basics of why you need a CDP and what Segment does better than all the rest!
@@ -98,7 +98,6 @@ Here are some options for apps, tutorials, and video lessons to check out, broke
 
 - 💻 [CodeExchange - Flex](https://www.twilio.com/code-exchange?q=&f=flex)
 - 📚 [Twilio Flex - Docs](https://www.twilio.com/docs/flex)
-- 💪 [Flexercises](https://twilio.learnupon.com/store)
 
 ### Twilio Serverless
 
@@ -115,12 +114,13 @@ Here are some options for apps, tutorials, and video lessons to check out, broke
 
 ## Moar On Demand Learning Resources
 
+- 🍿 [Sending your first message - YouTube](https://twil.io/sending-your-first-message)
 - 🍿 [Twilio Essentials: Messaging, Voice & Serverless Tutorial - LinkedIn Learning](https://www.linkedin.com/learning/instructors/twilio)
 - 🍿 [Twilio Essentials: Messaging, Voice & Serverless Tutorial - YouTube](https://youtu.be/4jUMqutYmyE)
-- 🍿 [Level Up with Video: Add live video to your applications](https://ahoy.twilio.com/devgen_webinar_programmable_video_uplevel_NAMER-1)
+- 🍿 [Level Up with Email: Using SendGrid to Send and Receive Emails with Python and Flask](https://interactive.twilio.com/level-up-with-email-using-sendgrid-to-send-and-receive-emails-with-python-and-flask-webinar)
 - 🍿 [Level Up with Twilio Programmable Voice: Build interactive phone based apps](https://ahoy.twilio.com/devgen_webinar_programmable_voice_uplevel_NAMER-1)
 - 🍿 [Level Up with Voice: Add a phone to your browser using the Voice SDK](https://ahoy.twilio.com/devgen_webinar_programmable_voice_uplevel_NAMER_2-1)
-- 👀 [All Level Up Developer Webinars](https://twil.io/levelups)
+- 👀 [All Level Up Developer Events](https://twil.io/levelups)
 
 ## Feedback
 
