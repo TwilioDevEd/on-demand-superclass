@@ -34,7 +34,7 @@ Did you know that “Merry Christmas” was the first ever text message sent? In
 
 - 📚 [REST API Best Practices](https://www.twilio.com/docs/usage/rest-api-best-practices)
 - 📚 [Best Practices for Scaling with Messaging Services](https://www.twilio.com/docs/messaging/guides/best-practices-at-scale)
-- 📚 [A2P10DLC - Application 2 Person 10 Digit Long Code - Guide](https://www.twilio.com/a2p-10dlc)
+- 📚 [A2P10DLC - Application 2 Person 10 Digit Long Code - Guide](https://www.twilio.com/docs/sms/a2p-10dlc)
 - 🧮 [Message Segment Calculator](https://twiliodeved.github.io/message-segment-calculator/)
 
 The Message API will get you very far, but when it comes to scale, it's helpful to take a step back and think through some best practices. In this talk we'll walk through things you should consider, and provide guidance for how you can take your applications to the next level.
@@ -117,6 +117,7 @@ Here are some options for apps, tutorials, and video lessons to check out, broke
 - 🍿 [Sending your first message - YouTube](https://twil.io/sending-your-first-message)
 - 🍿 [Twilio Essentials: Messaging, Voice & Serverless Tutorial - LinkedIn Learning](https://www.linkedin.com/learning/instructors/twilio)
 - 🍿 [Twilio Essentials: Messaging, Voice & Serverless Tutorial - YouTube](https://youtu.be/4jUMqutYmyE)
+- 🍿 [Level Up with Compliance: Understanding A2P 10DLC as a Developer](https://interactive.twilio.com/level-up-with-compliance-understanding-A2P-10DLC-as-a-developer-live-event)
 - 🍿 [Level Up with Email: Using SendGrid to Send and Receive Emails with Python and Flask](https://interactive.twilio.com/level-up-with-email-using-sendgrid-to-send-and-receive-emails-with-python-and-flask-webinar)
 - 🍿 [Level Up with Twilio Programmable Voice: Build interactive phone based apps](https://ahoy.twilio.com/devgen_webinar_programmable_voice_uplevel_NAMER-1)
 - 🍿 [Level Up with Voice: Add a phone to your browser using the Voice SDK](https://ahoy.twilio.com/devgen_webinar_programmable_voice_uplevel_NAMER_2-1)
