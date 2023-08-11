@@ -115,7 +115,7 @@ Here are some options for apps, tutorials, and video lessons to check out, broke
 ## Moar On Demand Learning Resources
 
 - 🍿 [Sending your first message - YouTube](https://twil.io/sending-your-first-message)
-- 🍿 [Twilio Essentials: Messaging, Voice & Serverless Tutorial - LinkedIn Learning](https://www.linkedin.com/learning/instructors/twilio)
+- 🎓 [Twilio Essentials: Messaging, Voice & Serverless Tutorial - LinkedIn Learning](https://www.linkedin.com/learning/instructors/twilio)
 - 🍿 [Twilio Essentials: Messaging, Voice & Serverless Tutorial - YouTube](https://youtu.be/4jUMqutYmyE)
 - 🍿 [Level Up with Compliance: Understanding A2P 10DLC as a Developer](https://interactive.twilio.com/level-up-with-compliance-understanding-A2P-10DLC-as-a-developer-live-event)
 - 🍿 [Level Up with Email: Using SendGrid to Send and Receive Emails with Python and Flask](https://interactive.twilio.com/level-up-with-email-using-sendgrid-to-send-and-receive-emails-with-python-and-flask-webinar)
