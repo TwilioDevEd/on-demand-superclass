@@ -18,7 +18,7 @@ Make sure to get inspired by your [fellow builders](https://customers.twilio.com
 
 ## Workshops
 
-We hope your adventures leave you **inspired to build**, knowing how to get started developing, as well as, how to continue learning and scaling on the Twilio platform!
+We hope that these lessons leave you **inspired to build** and knowing how to get started!  
 
 ### Introduction to Messaging
 
@@ -61,6 +61,7 @@ Principal, Developer Educator
 
 ### Introduction to Segment: The Customer Data Platform
 
+- 📆 [Segment Level Up Series - Register now!](https://twil.io/lu-segment-series)
 - 📚 [Segment Recipes - Step-by-step Tutorials](https://segment.com/recipes/)
 - 🙋‍♂️ [Segment Twilio Developer Plan](https://segment.com/twilio-developer-plan/)
 
